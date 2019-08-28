@@ -1,0 +1,28 @@
+body{
+  color:rgb(255, 0, 0);
+  font-family: serif;
+  margin: 10px;
+}
+div{
+  min-height: 20vh;
+  width:  100vw;
+}
+
+h1,h2,h3,h4,p{
+  text-align: center;
+}
+
+h1{
+  font-size: 3em;
+}
+
+h2{
+  font-size: 2.5em;
+}
+
+img{
+  display: flex;
+  padding: 40px,40px,40px,40px;
+  margin:0 auto;
+  border-radius: 130px;
+}
